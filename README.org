@@ -1,0 +1,9 @@
+* cl-smt-lib
+
+Common Lisp package providing an SMT object supporting SMT-LIB communication over input and output streams
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/GrammaTech/cl-smt-lib.git |
+| commit  | 9a6366a                                          |
+| systems | cl-smt-lib                                       |
+|---------+--------------------------------------------------|
